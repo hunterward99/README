@@ -6,5 +6,4 @@
 Хочешь запустить что-то классное? Пиши в [Telegram](https://t.me/Ward009) ☕
 
 
-markdown
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/hunterward99/github-readme-stats)
